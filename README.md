@@ -1,4 +1,4 @@
-# oss_work
+
 # get two integer parameters
 # return sum
 def plus(x, y):
